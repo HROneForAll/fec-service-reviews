@@ -1,6 +1,6 @@
 # Barebnb Plus
 
-> Project description
+> An app for making reservations at lodgings.
 
 ## Related Projects
 
